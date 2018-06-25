@@ -29,7 +29,7 @@ Ao digitar a marca, é retornado o código na FIPE da mesma.
 >É possível ao clicar no botão Histórico de consultas verificar as consultas realizadas anteriormente.
 
 ![Histórico de pesquisa](Images/Tela4b.png)
-![Histórico de pesquisa2](Images/Tela45.png)
+![Histórico de pesquisa2](Images/Tela5b.png)
 
 >Abaixo está o diagrama de classes do projeto.
-![Diagrama de classes](ConsultaFIPEbot.jpg)
+![Diagrama de classes](ConsultaFIPEbotNovo.jpg)
