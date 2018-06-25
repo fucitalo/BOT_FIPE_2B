@@ -12,7 +12,7 @@ Desenvolvido pelos alunos Gisele, Jéssica e Jonas, alunos de Análise e Desenvo
 >Inicialmente, o usuário tem a opção de escolher uma das três opções ao clicar nos botões:
 >Pesquisar o código da marca, pesquisar o valor de um veículo e verificar o histórico de pesquisas realizadas.
 
-![Menu inicial](Images/Tela3b.png)
+![Menu inicial](Images/Tela5b.png)
 
 >Nesta tela há um exemplo de como fazer uma pesquisa de uma marca específica.
 Ao digitar a marca, é retornado o código na FIPE da mesma.
@@ -28,7 +28,8 @@ Ao digitar a marca, é retornado o código na FIPE da mesma.
 
 >É possível ao clicar no botão Histórico de consultas verificar as consultas realizadas anteriormente.
 
-![Histórico de pesquisa](Images/Tela3b.png)
+![Histórico de pesquisa](Images/Tela4b.png)
+![Histórico de pesquisa2](Images/Tela45.png)
 
 >Abaixo está o diagrama de classes do projeto.
 ![Diagrama de classes](ConsultaFIPEbot.jpg)
