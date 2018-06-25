@@ -32,4 +32,4 @@ Ao digitar a marca, é retornado o código na FIPE da mesma.
 ![Histórico de pesquisa2](Images/Tela5b.png)
 
 >Abaixo está o diagrama de classes do projeto.
-![Diagrama de classes](ConsultaFIPEbotNovo.jpg)
+![Diagrama de classes](Images/ConsultaFipeBotNovo.jpg)
